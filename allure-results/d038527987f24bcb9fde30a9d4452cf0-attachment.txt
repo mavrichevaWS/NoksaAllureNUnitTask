@@ -1,3 +1,0 @@
-Value of the option item is selected: True California
-Value of the option item is selected: True New York
-Value of the option item is selected: True Pennsylvania
