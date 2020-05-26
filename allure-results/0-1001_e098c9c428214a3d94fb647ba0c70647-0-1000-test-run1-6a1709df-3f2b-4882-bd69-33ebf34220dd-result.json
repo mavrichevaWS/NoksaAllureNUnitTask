@@ -1,0 +1,94 @@
+{
+  "uuid": "0-1001_e098c9c428214a3d94fb647ba0c70647-0-1000-test-run1",
+  "historyId": "WebDriverTasks.WebDriverTasks.NewEmailTest(\"seleniumtests@tut.by\",\"123456789zxcvbn\") (\"seleniumtests@tut.by\", \"123456789zxcvbn\")",
+  "fullName": "WebDriverTasks.WebDriverTasks.NewEmailTest(\"seleniumtests@tut.by\",\"123456789zxcvbn\") (\"seleniumtests@tut.by\", \"123456789zxcvbn\")",
+  "labels": [
+    {
+      "name": "host",
+      "value": "LENOVO-PC"
+    },
+    {
+      "name": "testClass",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "testMethod",
+      "value": "NewEmailTest"
+    },
+    {
+      "name": "package",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "suite",
+      "value": "Web driver tasks"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Elena Mavricheva"
+    },
+    {
+      "name": "subSuite",
+      "value": "With defects"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    }
+  ],
+  "links": [
+    {
+      "name": "Some link2",
+      "url": "Some link2",
+      "type": "link"
+    },
+    {
+      "name": "22222",
+      "url": "22222",
+      "type": "issue"
+    },
+    {
+      "name": "2331",
+      "url": "2331",
+      "type": "tms"
+    }
+  ],
+  "name": "NewEmailTest(\"seleniumtests@tut.by\",\"123456789zxcvbn\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Login check test",
+  "steps": [
+    {
+      "name": "Login test",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484941586,
+      "stop": 1590484941589
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Parameter #1, String",
+      "value": "seleniumtests@tut.by"
+    },
+    {
+      "name": "Parameter #2, String",
+      "value": "123456789zxcvbn"
+    }
+  ],
+  "start": 1590484930588,
+  "stop": 1590484941589
+}
