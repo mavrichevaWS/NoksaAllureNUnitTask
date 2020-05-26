@@ -1,0 +1,85 @@
+{
+  "uuid": "0-1012_9acdefb757bf4f85b94e4a37469584f2-0-1000-test-run1",
+  "historyId": "WebDriverTasks.WebDriverTasks.User wait test",
+  "fullName": "WebDriverTasks.WebDriverTasks.User wait test",
+  "labels": [
+    {
+      "name": "host",
+      "value": "LENOVO-PC"
+    },
+    {
+      "name": "testClass",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "testMethod",
+      "value": "UserWaiter"
+    },
+    {
+      "name": "package",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "suite",
+      "value": "Web driver tasks"
+    },
+    {
+      "name": "severity",
+      "value": "minor"
+    },
+    {
+      "name": "owner",
+      "value": "Elena Mavricheva"
+    },
+    {
+      "name": "subSuite",
+      "value": "With defects"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    }
+  ],
+  "links": [
+    {
+      "name": "Some link6",
+      "url": "Some link6",
+      "type": "link"
+    },
+    {
+      "name": "66666",
+      "url": "66666",
+      "type": "issue"
+    },
+    {
+      "name": "8732",
+      "url": "8732",
+      "type": "tms"
+    }
+  ],
+  "name": "User wait test",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "User wait test",
+  "steps": [
+    {
+      "name": "Logo loading",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484958510,
+      "stop": 1590484960273
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1590484957143,
+  "stop": 1590484960273
+}
