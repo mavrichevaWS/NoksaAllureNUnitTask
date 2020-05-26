@@ -1,0 +1,34 @@
+{
+  "uuid": "0-1002_76a08b7298c94fed891333cc8479163f-0-1000-run1-container",
+  "name": "WebDriverTasks.WebDriverTasks",
+  "children": [
+    "0-1002_76a08b7298c94fed891333cc8479163f-0-1000-test-run1"
+  ],
+  "befores": [],
+  "afters": [
+    {
+      "name": "TeardownTest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Step Screenshot",
+          "source": "39590f7416c74bad97d8e83a1b0e1a8e-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "parameters": [],
+      "start": 1590484949488,
+      "stop": 1590484949489
+    }
+  ],
+  "links": [],
+  "start": 1590484941589,
+  "stop": 1590484949489
+}
