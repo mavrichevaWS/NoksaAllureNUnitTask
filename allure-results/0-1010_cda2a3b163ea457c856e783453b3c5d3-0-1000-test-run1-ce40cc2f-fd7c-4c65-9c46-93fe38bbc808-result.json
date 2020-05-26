@@ -1,0 +1,85 @@
+{
+  "uuid": "0-1010_cda2a3b163ea457c856e783453b3c5d3-0-1000-test-run1",
+  "historyId": "WebDriverTasks.WebDriverTasks.Alert box test",
+  "fullName": "WebDriverTasks.WebDriverTasks.Alert box test",
+  "labels": [
+    {
+      "name": "host",
+      "value": "LENOVO-PC"
+    },
+    {
+      "name": "testClass",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "testMethod",
+      "value": "AlertBox"
+    },
+    {
+      "name": "package",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "suite",
+      "value": "Web driver tasks"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Elena Mavricheva"
+    },
+    {
+      "name": "subSuite",
+      "value": "With defects"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    }
+  ],
+  "links": [
+    {
+      "name": "Some link5",
+      "url": "Some link5",
+      "type": "link"
+    },
+    {
+      "name": "55555",
+      "url": "55555",
+      "type": "issue"
+    },
+    {
+      "name": "1025",
+      "url": "1025",
+      "type": "tms"
+    }
+  ],
+  "name": "Alert box test",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Alert box test",
+  "steps": [
+    {
+      "name": "Alert box",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484914803,
+      "stop": 1590484914839
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1590484910278,
+  "stop": 1590484914849
+}
