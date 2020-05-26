@@ -1,0 +1,435 @@
+{
+  "uuid": "0-1016_17592faf0ba64dd6872421b6471d5123-0-1000-test-run1",
+  "historyId": "WebDriverTasks.WebDriverTasks.Select table data test",
+  "fullName": "WebDriverTasks.WebDriverTasks.Select table data test",
+  "labels": [
+    {
+      "name": "host",
+      "value": "LENOVO-PC"
+    },
+    {
+      "name": "testClass",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "testMethod",
+      "value": "selectionOfResults"
+    },
+    {
+      "name": "package",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "suite",
+      "value": "Web driver tasks"
+    },
+    {
+      "name": "severity",
+      "value": "minor"
+    },
+    {
+      "name": "owner",
+      "value": "Elena Mavricheva"
+    },
+    {
+      "name": "subSuite",
+      "value": "With defects"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    }
+  ],
+  "links": [
+    {
+      "name": "Some link8",
+      "url": "Some link8",
+      "type": "link"
+    },
+    {
+      "name": "88888",
+      "url": "88888",
+      "type": "issue"
+    },
+    {
+      "name": "9823",
+      "url": "9823",
+      "type": "tms"
+    }
+  ],
+  "name": "Select table data test",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Select table data test",
+  "steps": [
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484950714,
+      "stop": 1590484950715
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484950732,
+      "stop": 1590484950895
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484950908,
+      "stop": 1590484951060
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484951076,
+      "stop": 1590484951222
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484951238,
+      "stop": 1590484951356
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484951368,
+      "stop": 1590484951485
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484951500,
+      "stop": 1590484951642
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484951654,
+      "stop": 1590484951776
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484951788,
+      "stop": 1590484951924
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484951937,
+      "stop": 1590484952090
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484952101,
+      "stop": 1590484952218
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484952337,
+      "stop": 1590484952339
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484952351,
+      "stop": 1590484952485
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484952501,
+      "stop": 1590484952634
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484952652,
+      "stop": 1590484952796
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484952811,
+      "stop": 1590484952932
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484952948,
+      "stop": 1590484953102
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484953115,
+      "stop": 1590484953239
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484953251,
+      "stop": 1590484953376
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484953392,
+      "stop": 1590484953593
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484953609,
+      "stop": 1590484953789
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484953808,
+      "stop": 1590484954005
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484954186,
+      "stop": 1590484954189
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484954213,
+      "stop": 1590484954446
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484954468,
+      "stop": 1590484954656
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484954676,
+      "stop": 1590484954873
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484954897,
+      "stop": 1590484955125
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484955148,
+      "stop": 1590484955375
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484955393,
+      "stop": 1590484955580
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484955596,
+      "stop": 1590484955782
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484955800,
+      "stop": 1590484956003
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484956027,
+      "stop": 1590484956263
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484956289,
+      "stop": 1590484956478
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484956624,
+      "stop": 1590484956625
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484956641,
+      "stop": 1590484956864
+    },
+    {
+      "name": "Select table data",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484956887,
+      "stop": 1590484957083
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1590484950005,
+  "stop": 1590484957142
+}
