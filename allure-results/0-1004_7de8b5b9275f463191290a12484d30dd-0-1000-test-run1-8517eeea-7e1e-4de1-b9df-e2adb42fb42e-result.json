@@ -1,0 +1,114 @@
+{
+  "uuid": "0-1004_7de8b5b9275f463191290a12484d30dd-0-1000-test-run1",
+  "historyId": "WebDriverTasks.WebDriverTasks.Options select test",
+  "fullName": "WebDriverTasks.WebDriverTasks.Options select test",
+  "labels": [
+    {
+      "name": "host",
+      "value": "LENOVO-PC"
+    },
+    {
+      "name": "testClass",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "testMethod",
+      "value": "MultiselectTest"
+    },
+    {
+      "name": "package",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "suite",
+      "value": "Web driver tasks"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Elena Mavricheva"
+    },
+    {
+      "name": "subSuite",
+      "value": "With defects"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    }
+  ],
+  "links": [
+    {
+      "name": "Some link",
+      "url": "Some link",
+      "type": "link"
+    },
+    {
+      "name": "11111",
+      "url": "11111",
+      "type": "issue"
+    },
+    {
+      "name": "2651",
+      "url": "2651",
+      "type": "tms"
+    }
+  ],
+  "name": "Options select test",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected: True\r\n  But was:  False\r\n",
+    "trace": "   в Allure.Commons.AllureLifecycle.StepRunner[TResult](String stepName, Delegate del, Boolean throwEx, Status stepStatusIfFailed, Object[] stepParams)\r\n   в Allure.Commons.AllureLifecycle.RunStep(String stepName, Action stepBody, Object[] stepParams)\r\n   в WebDriverTasks.WebDriverTasks.MultiselectTest() в C:\\Users\\user\\source\\repos\\Selenium WebDriver Tasks\\Selenium WebDriver Tasks\\WebDriverTasks.cs:строка 131\r\n"
+  },
+  "stage": "finished",
+  "description": "Options select test",
+  "steps": [
+    {
+      "name": "Options select",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484929370,
+      "stop": 1590484929464
+    },
+    {
+      "name": "Options select",
+      "status": "failed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "AssertionException: Expected: True\r\n  But was:  False",
+          "status": "failed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1590484929838,
+          "stop": 1590484929839
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Step Screenshot",
+          "source": "c0627d58cd81458cab057f8477c4e97a-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "parameters": [],
+      "start": 1590484929552,
+      "stop": 1590484930223
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1590484928273,
+  "stop": 1590484930588
+}
