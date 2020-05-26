@@ -1,0 +1,85 @@
+{
+  "uuid": "0-1014_379d71d722da4eff82e3e032fee5f87f-0-1000-test-run1",
+  "historyId": "WebDriverTasks.WebDriverTasks.Waiting 50% test",
+  "fullName": "WebDriverTasks.WebDriverTasks.Waiting 50% test",
+  "labels": [
+    {
+      "name": "host",
+      "value": "LENOVO-PC"
+    },
+    {
+      "name": "testClass",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "testMethod",
+      "value": "downloadingPercentage"
+    },
+    {
+      "name": "package",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "suite",
+      "value": "Web driver tasks"
+    },
+    {
+      "name": "severity",
+      "value": "blocker"
+    },
+    {
+      "name": "owner",
+      "value": "Elena Mavricheva"
+    },
+    {
+      "name": "subSuite",
+      "value": "With defects"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    }
+  ],
+  "links": [
+    {
+      "name": "Some link7",
+      "url": "Some link7",
+      "type": "link"
+    },
+    {
+      "name": "77777",
+      "url": "77777",
+      "type": "issue"
+    },
+    {
+      "name": "4673",
+      "url": "4673",
+      "type": "tms"
+    }
+  ],
+  "name": "Waiting 50% test",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Waiting 50% test",
+  "steps": [
+    {
+      "name": "Waiting 50%",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484927044,
+      "stop": 1590484928270
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1590484915363,
+  "stop": 1590484928270
+}
