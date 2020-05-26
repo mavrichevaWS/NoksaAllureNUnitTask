@@ -1,0 +1,85 @@
+{
+  "uuid": "0-1008_b48ddef0a19d43d7af505247f2beebba-0-1000-test-run1",
+  "historyId": "WebDriverTasks.WebDriverTasks.Prompt box test",
+  "fullName": "WebDriverTasks.WebDriverTasks.Prompt box test",
+  "labels": [
+    {
+      "name": "host",
+      "value": "LENOVO-PC"
+    },
+    {
+      "name": "testClass",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "testMethod",
+      "value": "PromptBox"
+    },
+    {
+      "name": "package",
+      "value": "WebDriverTasks.WebDriverTasks"
+    },
+    {
+      "name": "suite",
+      "value": "Web driver tasks"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Elena Mavricheva"
+    },
+    {
+      "name": "subSuite",
+      "value": "With defects"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    }
+  ],
+  "links": [
+    {
+      "name": "Some link4",
+      "url": "Some link4",
+      "type": "link"
+    },
+    {
+      "name": "44444",
+      "url": "44444",
+      "type": "issue"
+    },
+    {
+      "name": "1133",
+      "url": "1133",
+      "type": "tms"
+    }
+  ],
+  "name": "Prompt box test",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Prompt box test",
+  "steps": [
+    {
+      "name": "Prompt box",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1590484949954,
+      "stop": 1590484950004
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1590484949490,
+  "stop": 1590484950004
+}
